@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+div {
+    width: fit-content;
+}
+
+.danger {}
+
+.success {}
+
+.info {}
+
+.warning {}
